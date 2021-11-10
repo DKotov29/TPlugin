@@ -1,0 +1,14 @@
+tgui_name: "tgui"
+tgui_places:
+  - "1;;Material.ACACIA_SAPLING;;1;;name_heal;;heal"
+  - "2;;Material.ACACIA_SAPLING;;1;;name_food;;food"
+  - "3;;Material.ACACIA_SAPLING;;1;;name_suicide;;suicide"
+  - "4;;Material.ACACIA_SAPLING;;1;;name_stick;;stick"
+  - "5;;Material.ACACIA_SAPLING;;1;;name_heal_food;;heal,food"
+  - "6;;Material.ACACIA_BUTTON;;1;;close_inv;;close" #close isnt command
+  - "7;;Material.BRICK;;1;;give_eff;;effect_PotionEffectType.ABSORPTION" #effect_* too
+  - "8;;Material.BRICK;;1;;remove_eff;;noeffect" #noeffect too
+db_url: ""
+db_user: ""
+db_pass: ""
+money_give
